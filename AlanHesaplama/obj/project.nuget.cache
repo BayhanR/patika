@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7V52VXxJ1tVmM9RvFztt7b9kVefwpVEf0hM91GA6ujpSat+zh2XJxFSHC21n3ZwGxIQG45Kc0KDWWZmjttMgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\AlanHesaplama\\AlanHesaplama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

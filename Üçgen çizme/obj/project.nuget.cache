@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpMNfn1WxvkNGdB5NbtfjwG+OyuEpSgMVgfjNvtWYSgXqCLFlPBU/1KQ95IIXc4gYOMJUF4QtFO8dwVpCbVFBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\Üçgen çizme\\Üçgen çizme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

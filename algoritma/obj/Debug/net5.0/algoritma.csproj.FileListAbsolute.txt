@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\C# Projeleri\algoritma\bin\Debug\net5.0\algoritma.exe
+C:\Users\hp\Desktop\C# Projeleri\algoritma\bin\Debug\net5.0\algoritma.deps.json
+C:\Users\hp\Desktop\C# Projeleri\algoritma\bin\Debug\net5.0\algoritma.runtimeconfig.json
+C:\Users\hp\Desktop\C# Projeleri\algoritma\bin\Debug\net5.0\algoritma.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C# Projeleri\algoritma\bin\Debug\net5.0\algoritma.dll
+C:\Users\hp\Desktop\C# Projeleri\algoritma\bin\Debug\net5.0\ref\algoritma.dll
+C:\Users\hp\Desktop\C# Projeleri\algoritma\bin\Debug\net5.0\algoritma.pdb
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\algoritma.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\algoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\algoritma.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\algoritma.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\algoritma.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\algoritma.dll
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\ref\algoritma.dll
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\algoritma.pdb
+C:\Users\hp\Desktop\C# Projeleri\algoritma\obj\Debug\net5.0\algoritma.genruntimeconfig.cache

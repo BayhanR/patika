@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHK9FGB6Z6uSbWsp8VnIvpj9vmWZ3YkZ2x7f8r4CvH+fVezY2V4WcqjQWUXZUDrxPoiqI9luiFUgNSNDzqrxkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\algoritma\\algoritma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zqj2frP3U3h2bzHCJwwcRAAasLr7mOZeSxL25fqu9zdgn/CQLcjJN2+dmQ9L8EAIJQfK1Yng6MCfHgjl56iTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\daire çizimi\\daire çizimi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

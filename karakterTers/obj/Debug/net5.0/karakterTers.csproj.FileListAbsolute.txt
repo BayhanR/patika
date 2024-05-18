@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\bin\Debug\net5.0\karakterTers.exe
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\bin\Debug\net5.0\karakterTers.deps.json
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\bin\Debug\net5.0\karakterTers.runtimeconfig.json
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\bin\Debug\net5.0\karakterTers.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\bin\Debug\net5.0\karakterTers.dll
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\bin\Debug\net5.0\ref\karakterTers.dll
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\bin\Debug\net5.0\karakterTers.pdb
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\karakterTers.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\karakterTers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\karakterTers.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\karakterTers.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\karakterTers.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\karakterTers.dll
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\ref\karakterTers.dll
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\karakterTers.pdb
+C:\Users\hp\Desktop\C# Projeleri\karakterTers\obj\Debug\net5.0\karakterTers.genruntimeconfig.cache

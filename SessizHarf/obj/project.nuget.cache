@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PF0A1MK1GNMrl4yR7X65xME3gNe4st28yAJgtbNtgIjNmFQUJyK+OMmj/MwIVP0npXh7j+Ka7jJlw6Cht+N8kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\SessizHarf\\SessizHarf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

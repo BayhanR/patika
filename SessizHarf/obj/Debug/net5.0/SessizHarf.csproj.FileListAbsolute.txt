@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\bin\Debug\net5.0\SessizHarf.exe
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\bin\Debug\net5.0\SessizHarf.deps.json
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\bin\Debug\net5.0\SessizHarf.runtimeconfig.json
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\bin\Debug\net5.0\SessizHarf.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\bin\Debug\net5.0\SessizHarf.dll
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\bin\Debug\net5.0\ref\SessizHarf.dll
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\bin\Debug\net5.0\SessizHarf.pdb
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\SessizHarf.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\SessizHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\SessizHarf.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\SessizHarf.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\SessizHarf.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\SessizHarf.dll
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\ref\SessizHarf.dll
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\SessizHarf.pdb
+C:\Users\hp\Desktop\C# Projeleri\SessizHarf\obj\Debug\net5.0\SessizHarf.genruntimeconfig.cache

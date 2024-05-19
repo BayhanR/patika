@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfKuMOk1T1UrGVfmsLtcA+CWXLDN3OkHtE2YzdheTy5ACD2RX6Io7ItCPHjx6kGQbVX6u23GRbqvbfAGV81XNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\ATM uygulaması patika\\ATM uygulaması patika.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0i8lTvfOQhmSiSDLDXrZA7oElJFSPcC47nqXRN6XTMlArGgBi3EE5VTrj27oS+q7neaUJB8ZFJLQT/jHm5hTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\Mutlak Kare alma\\Mutlak Kare alma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

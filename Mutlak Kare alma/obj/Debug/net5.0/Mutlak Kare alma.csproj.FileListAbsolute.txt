@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\bin\Debug\net5.0\Mutlak Kare alma.exe
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\bin\Debug\net5.0\Mutlak Kare alma.deps.json
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\bin\Debug\net5.0\Mutlak Kare alma.runtimeconfig.json
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\bin\Debug\net5.0\Mutlak Kare alma.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\bin\Debug\net5.0\Mutlak Kare alma.dll
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\bin\Debug\net5.0\ref\Mutlak Kare alma.dll
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\bin\Debug\net5.0\Mutlak Kare alma.pdb
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\Mutlak Kare alma.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\Mutlak Kare alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\Mutlak Kare alma.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\Mutlak Kare alma.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\Mutlak Kare alma.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\Mutlak Kare alma.dll
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\ref\Mutlak Kare alma.dll
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\Mutlak Kare alma.pdb
+C:\Users\hp\Desktop\C# Projeleri\Mutlak Kare alma\obj\Debug\net5.0\Mutlak Kare alma.genruntimeconfig.cache

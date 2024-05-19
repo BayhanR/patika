@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\bin\Debug\net5.0\Integer Ikililerin Toplamı.exe
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\bin\Debug\net5.0\Integer Ikililerin Toplamı.deps.json
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\bin\Debug\net5.0\Integer Ikililerin Toplamı.runtimeconfig.json
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\bin\Debug\net5.0\Integer Ikililerin Toplamı.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\bin\Debug\net5.0\Integer Ikililerin Toplamı.dll
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\bin\Debug\net5.0\ref\Integer Ikililerin Toplamı.dll
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\bin\Debug\net5.0\Integer Ikililerin Toplamı.pdb
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\Integer Ikililerin Toplamı.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\Integer Ikililerin Toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\Integer Ikililerin Toplamı.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\Integer Ikililerin Toplamı.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\Integer Ikililerin Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\Integer Ikililerin Toplamı.dll
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\ref\Integer Ikililerin Toplamı.dll
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\Integer Ikililerin Toplamı.pdb
+C:\Users\hp\Desktop\C# Projeleri\Integer Ikililerin Toplamı\obj\Debug\net5.0\Integer Ikililerin Toplamı.genruntimeconfig.cache

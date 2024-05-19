@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p/a5FXOfZoyaYhe7i+oY5550PgwNaZrQ9GJVQ9f/vjHH2eoyMMjimPGaOP3ZxfeNZLZnDq/8cK1rjA9WFGIuvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\Integer Ikililerin Toplamı\\Integer Ikililerin Toplamı.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

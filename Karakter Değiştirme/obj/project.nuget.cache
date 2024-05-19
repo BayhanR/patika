@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6f5hGA9ruIb9Euq+DUwRb5Hs3f+RPFxB+x7Tyydn8yCwJxv9yozsEvF2O2L4R0K2vw081oiqFJGs1e4IjNOGaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\C# Projeleri\\Karakter Değiştirme\\Karakter Değiştirme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
